@@ -1,4 +1,5 @@
-markdown# Employee Data Analytics Report: ABC Company
+markdown
+# Employee Data Analytics Report: ABC Company
 
 An end-to-end data preprocessing, exploratory data analysis (EDA), and data visualization project analyzing the organizational structure, workforce demographics, and compensation metrics of ABC Company.
 
@@ -40,9 +41,9 @@ To establish strong data consistency and integrity before analysis, the dataset 
 
 ## 🚀 Repository Structure
 text
-├── README.md                 # Project executive summary and data story
-├── abc_company_analysis.ipynb # Fully documented Jupyter Notebook with Python code
-└── abc_company_data.csv      # Raw source dataset (458 rows x 9 columns)
+├── README.md (Python_Assessment_2)                # Project executive summary and data story
+├── Module 2_Python Assessment 2_(01-Aug-2026).ipynb # Fully documented Jupyter Notebook with Python code
+└── ABC_Company.xlsx      # Raw excel source dataset (458 rows x 9 columns)
 
 
 ## 💻 Tech Stack & Dependencies
