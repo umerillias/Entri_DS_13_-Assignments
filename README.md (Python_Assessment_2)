@@ -42,7 +42,7 @@ To establish strong data consistency and integrity before analysis, the dataset 
 ## 🚀 Repository Structure
 text
 ├── README.md (Python_Assessment_2)                # Project executive summary and data story
-├── Module 2_Python Assessment 2_(01-Aug-2026).ipynb # Fully documented Jupyter Notebook with Python code
+├── Module 2_Python Assessment 2_(07-Aug-2026).ipynb # Fully documented Jupyter Notebook with Python code
 └── ABC_Company.xlsx      # Raw excel source dataset (458 rows x 9 columns)
 
 
